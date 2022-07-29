@@ -31,8 +31,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] //ur owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
+global.vcardowner = ['+212638499105'] //ur owner number
+global.ownername = "ayoub elkhadir" //ur owner name
 global.ytname = "" //ur yt chanel name
 global.socialm = "GitHub: prabhasha2006" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -49,9 +49,9 @@ global.alivepic = `${encodeURIComponent(sender_dp)}` // Senter's propile picture
 
 global.dragonchat = "true"  // chat bot  "true" / "false"
 >>>>>>> c7982d545b9b93ee73ce5052266b4a2bbc34babc
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //ur tag number
-global.botname = '☬RED༒DRAGON࿐"' //ur bot name
+global.owner = ['+212638499105']
+global.ownertag = '+212638499105' //ur tag number
+global.botname = 'ayoub elkhadir' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "☬RED༒DRAGON࿐" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
